@@ -1,0 +1,21 @@
+body.rtl .h5p-image-pair .h5p-image-pair-item .image-container{
+    direction:ltr;
+    text-align:left;
+}
+
+body.rtl .h5p-image-pair .h5p-image-pair-item{
+	float:right;
+}
+
+body.rtl .h5p-image-pair-images-paired .front{
+	right: 0.5em !important;
+	left:auto;
+}
+
+body.rtl .h5p-image-pair-images-paired .card-paired:last-child{
+	left: 0.5em;
+    bottom: 0.513em;
+    top: auto;
+    right: auto;
+    position: absolute;
+}

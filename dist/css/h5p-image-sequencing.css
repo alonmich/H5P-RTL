@@ -1,0 +1,7 @@
+body.rtl .h5p-image-sequencing .sequencing-item {
+	float: right;
+}
+
+body.rtl .h5p-image-sequencing .sequencing-dropzone {
+	float:right;
+}

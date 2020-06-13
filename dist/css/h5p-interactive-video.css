@@ -1,0 +1,97 @@
+.h5p-interactive-video .h5p-controls{
+    direction: ltr;
+    text-align: left;
+}
+
+.h5p-interactive-video .h5p-joubelui-button:before {
+ padding: 0 0.5em;	
+}
+
+.h5p-interactive-video .h5p-alternative-container {
+ text-align: right;
+ padding: 0.25em 3.5em 0.25em 0.75em;
+}
+
+.h5p-interactive-video .h5p-blanks .h5p-correct:after {
+ left: 0.5em;
+ right:auto;
+}
+
+.h5p-interactive-video .h5p-blanks .h5p-wrong:after {
+ left: 0.5em;
+ right:auto;
+} 
+
+.h5p-multichoice .h5p-answer .h5p-alternative-container:before{
+ left:auto;
+ right: 2.5em;
+}
+
+.h5p-question-buttons .h5p-joubelui-button, .h5p-question-buttons .h5p-joubelui-button:first-child:last-child{
+ margin: 0 0 0 0.5em;
+}
+
+.h5p-interactive-video .h5p-question .h5p-joubelui-button{
+ float: right;
+}
+
+.h5p-interactive-video .h5p-question-image {
+ text-align: right;
+}
+
+.h5p-interactive-video .h5p-question-image-wrap{
+ -webkit-transform: translate(-1em, 1em);
+ transform: translate(-1em, 1em);
+}
+
+.h5p-interactive-video .h5p-true-false-answer:after {
+ left: 0;
+ right: auto;
+}
+
+.h5p-interactive-video .h5p-true-false-answer {
+ margin: 0 0 1em 1em;
+ padding: .5em .3em .5em 3.5em;	
+}
+
+.h5p-interactive-video-endscreen-overview-title-answered-questions {
+ text-align: right;
+}
+
+.h5p-interactive-video-endscreen-introduction-container{
+ text-align: right;
+}
+
+.h5p-interactive-video-endscreen-overview-table-row-title {
+ text-align: right;
+}
+
+.h5p-interactive-video-endscreen-overview-table-row-score {
+ text-align: left;
+}
+
+.h5p-interactive-video-endscreen-star-symbol {
+     margin-left: 0.5em;
+}
+
+.h5p-interactive-video .h5p-question-iv-continue:before {
+ transform: rotate(180deg);
+ display: inline-block;
+}
+
+.h5p-interactive-video .hidden-but-read {
+ right: -10000px;
+}
+
+.h5p-interactive-video .h5p-dialog-close {
+     left: 0.5em;
+    right: auto;
+}
+
+.h5p-interactive-video-endscreen-overview-table-row-score{
+     direction: ltr;
+}
+
+.h5p-interactive-video .h5p-interaction .h5p-interaction-inner.h5p-link:after{
+     margin-right: 0.7em;
+}
