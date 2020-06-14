@@ -1,3 +1,8 @@
+@import url("h5p-image-hotspot-question.css");
+@import url("h5p-interactive-video.css");
+@import url("h5p-image-sequencing.css");
+@import url("h5p-image-pair.css");
+
 body.rtl {
     direction:rtl;
     text-align: right;;
